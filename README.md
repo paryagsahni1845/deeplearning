@@ -1,6 +1,6 @@
 # Deep Learning Implementations from Scratch
 
-This repository contains from-scratch implementations of various deep learning models using PyTorch, applied on multiple datasets such as MNIST, Cipher, and others. The goal of this project is to demonstrate a strong understanding of neural network architectures, forward and backward propagation, and model training without relying on high-level abstractions.
+This repository contains from-scratch implementations of various deep learning models using PyTorch, applied on multiple datasets such as IMDB, Cipher, and others. The goal of this project is to demonstrate a strong understanding of neural network architectures, forward and backward propagation, and model training without relying on high-level abstractions.
 
 ## Implemented Models
 
